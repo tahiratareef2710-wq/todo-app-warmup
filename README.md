@@ -14,7 +14,8 @@ A simple full-stack Todo app built with vanilla HTML/CSS/JS on the frontend and 
 - Frontend: HTML, CSS, vanilla JavaScript (fetch API)
 - Backend: Node.js, Express
 - Storage: in-memory array
-
+## Status
+Core CRUD complete: add, list, toggle-complete, delete.
 ## How to Run
 
 ### 1. Install dependencies
